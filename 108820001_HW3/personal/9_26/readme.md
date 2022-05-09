@@ -1,4 +1,4 @@
-# Programming Problems 4.17
+# Programming Problems 9.26
 
 ## How to Run
 This file was written in C language. Please make sure your environment work well with gcc.
