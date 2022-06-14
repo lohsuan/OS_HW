@@ -2,8 +2,8 @@ all: main
 
 .PHONY: exec clean
 
-main: ./main.c
-	g++ main.c -o main -std=c++11
+main: ./main.cpp
+	g++ main.cpp -o main -std=c++11
 
 exec: 
 	./main
